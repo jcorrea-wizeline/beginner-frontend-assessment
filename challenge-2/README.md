@@ -1,4 +1,4 @@
-# Challenge 3 - Website development (HTML5, CSS3, JS)
+# Challenge 2 - Website development (HTML5, CSS3, JS)
 
 For this challenge you will work using [codesandbox](https://codesandbox.io/).
 
