@@ -1,10 +1,10 @@
-# Beginner Frontend Assesment
+# Beginner Frontend Assessment
 
-Welcome to the beginner frontend assesment! 🤓
+Welcome to the beginner frontend assessment! 🤓
 
 ## Instructions
 
-This assesment consist on 3 challenges.
+This assessment consist on 3 challenges.
 
 There is a subfolder for each challenge where you will find the particular instructions for them.
 
